@@ -1,0 +1,219 @@
+body{
+    font-family: 'Montserrat', sans-serif;  
+    background: black;
+}
+
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: #eae8e8;
+}
+
+.right-side-container{
+    padding: 88px;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 180px;
+}
+
+.about-me-name{
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -10px;
+}
+.about-me-description{
+    color: #3a4545;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 15px;
+}
+
+
+.education-section{
+    margin-top: 40px;
+}
+.education-section-header{
+    color:  #babec7;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.university-header{
+    margin-top: 12px;
+}
+.faculty-header{
+    
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-top: -12px;
+}
+.high-school-header{
+    margin-top: 20px;
+}
+.profile{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: -20px;
+}
+.profile-date,.volunteering-date{
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    margin-top: -10px;
+
+}
+.volunteering-section{
+    margin-top: 40px; 
+}
+.volunteering-header{
+    color: #babec7;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.volunteering{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+    margin-top: 9px;
+}
+.project-header{
+    color: #babec7;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.project-section{
+    margin-top: 40px; 
+}
+.project-container{
+    display: flex;
+    flex-direction: column;
+}
+.project-item{
+    display: flex;
+    flex-direction: row;
+    justify-content:  space-between;
+}
+
+
+.hobby-section{
+    margin-top: 40px;
+}
+.hobby-header{
+    color: #babec7;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.hobby{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    margin-top: -10px;
+    margin-left: -20px;
+}
+
+
+
+.sidebar-section{
+    background-color: #babec7;
+}
+.sidebar-image{
+    margin-top: 40px;
+    border-radius: 45% 90%;
+}
+
+.contacts-container,.personal-informations-container{
+    padding-left: 40px;
+}
+.contacts-header,.personal-informations-header{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.contacts-item,.personal-informations-item{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px; 
+}
+.contacts-phone{
+    color: #5a8ce1;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.contacts-email{
+    color: #5a8de4;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 10px;
+}
+.contacts-element,.personal-informations-element{
+    margin-top: -12px;
+}
+.skills-section{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.skills-header{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.skills-list{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-top: -10px;
+    margin-left: -10px;
+}
+.Limbi-section{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.Limbi-header{
+    color: #161D2A;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.Limbi-list{
+    color: #161D2A;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    margin-top: -10px;
+    margin-left: -10px;  
+}
